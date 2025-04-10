@@ -21,20 +21,20 @@ This project was inspired by Zerodha's Kite platform, with a focus on learning f
 ---
 
 ## Clone the repo
-git clone https://github.com/Harshniii/TradeX.git
-cd TradeX
+- git clone https://github.com/Harshniii/TradeX.git
+- cd TradeX
 
 ### Start Backend
-cd backend
-npm install
-npm start
+- cd backend
+- npm install
+- npm start
 
 ### Start Frontend
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
 ### Start Dashboard
-cd dashboard
-npm install
-npm start
+- cd dashboard
+- npm install
+- npm start
