@@ -5,7 +5,7 @@ TradeX is a clone of the Zerodha Kite platform, built to simulate the experience
 
 ---
 
-### 🚀 Features
+###  Features
 
 -  User authentication & sessions
 -  Real-time stock UI (Zerodha-inspired)
@@ -15,7 +15,7 @@ TradeX is a clone of the Zerodha Kite platform, built to simulate the experience
 
 ---
 
-### 💡 Inspiration
+###  Inspiration
 This project was inspired by Zerodha's Kite platform, with a focus on learning full-stack architecture and building production-like UIs.
 
 ---
